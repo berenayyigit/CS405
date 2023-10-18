@@ -1,0 +1,7 @@
+/* Add any styles for your SVG here if needed */
+svg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
